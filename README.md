@@ -7,6 +7,7 @@
 - chdir
   
   `chdir can also be used to change the drive and/or directory that you want to work`
+  `chdir C:/ => C:/>`
 
 - copy
   
@@ -15,3 +16,4 @@
 - dir
 
   `The dir command is available in all versions of Windows`
+  `dir => shows all the folders in folder`
