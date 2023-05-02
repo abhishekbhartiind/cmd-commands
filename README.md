@@ -32,3 +32,16 @@
   all current TCP/IP network configuration values and refreshes Dynamic       
   Host Configuration Protocol and Domain Name System settings.
   ```
+- exit
+
+  ```
+  Exit is a command used in many operating system command-line shells and scripting languages. 
+  The command causes the shell or program to terminate.
+  ```
+  
+ - rmdir
+  
+   ```
+   The rd and rmdir commands remove an empty directory from the system. 
+   The syntax for the commands is: rd <path> rmdir <path>
+   ```
